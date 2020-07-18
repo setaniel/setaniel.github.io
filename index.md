@@ -1,32 +1,33 @@
-## Welcome to my site
+## Kirill Orlov personal pge
 
-You can use the [editor on GitHub](https://github.com/setaniel/setaniel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I use a github and git instruments for deployment my first's projects, i learning Java now.
+Github pages - my first portfolio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Job history
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My job history
 
 ```markdown
 Syntax highlighted code block
 
-# Просто
-## Оставлю это
-### Здеся тута
+# Internet connection technician
+## System administrator
+### Java junior developer
 
 - Bulleted
 - List
+- null
 
 1. Numbered
 2. List
+3. -> ArrayList
 
-**Bold** and _Italic_ and `Code` text
+**Bold String** and _Italic design_ and `System.out.println("Code")` text
 
-[Link](url) and ![Image](src)
+[https://github.com/setaniel](myHub) and ![https://wallbox.ru/wallpapers/main2/201719/fon-ulybka-ocki-temnye-smajlik.jpg](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details, i will see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
