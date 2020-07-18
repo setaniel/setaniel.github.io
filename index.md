@@ -1,4 +1,4 @@
-## Kirill Orlov personal pge
+## Kirill Orlov personal page
 
 I use a github and git instruments for deployment my first's projects, i learning Java now.
 Github pages - my first portfolio.
