@@ -24,7 +24,9 @@ Syntax highlighted code block
 
 **Bold String** and _Italic design_ and `System.out.println("Code")` text
 ```
-[MyHub](https://github.com/setaniel) 
+
+[MyHub - repository](https://github.com/setaniel) 
+
 
 ![Smile](https://wallbox.ru/wallpapers/main2/201719/fon-ulybka-ocki-temnye-smajlik.jpg)
 
