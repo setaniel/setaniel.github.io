@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold String** and _Italic design_ and `System.out.println("Code")` text
 
-[https://github.com/setaniel](myHub) and ![https://wallbox.ru/wallpapers/main2/201719/fon-ulybka-ocki-temnye-smajlik.jpg](src)
+[MyHub](https://github.com/setaniel) and ![Smile](https://wallbox.ru/wallpapers/main2/201719/fon-ulybka-ocki-temnye-smajlik.jpg)
 ```
 
 For more details, i will see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
