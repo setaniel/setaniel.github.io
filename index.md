@@ -22,7 +22,7 @@ IT career
 
 **Bold String** and _Italic design_ 
 `System.out.println("Code");` text
-```Java
+```javascript
 public class DateOfTomorrow throws InterruptedException {
     public static void main(String[] args) {
         Thread.sleep(86400000);
