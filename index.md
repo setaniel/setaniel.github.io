@@ -32,15 +32,6 @@ public class DateOfTomorrow {
 ```
 ```
 
-```java
-public class DateOfTomorrow {
-    public static void main(String[] args) throws InterruptedException {
-        Thread.sleep(86400000);
-        System.out.println(new Date());
-    }
-}
-```
-
 [MyHub - repository](https://github.com/setaniel) 
 
 
