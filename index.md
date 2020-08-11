@@ -1,28 +1,30 @@
 ## Kirill Orlov personal page
 
 I use a github and git instruments for deployment my first's projects, i learning Java now.
-Github pages - my first portfolio.
+Github pages - my first personal page.
 
 ### Job history
 
-My job history
+IT career
 
 ```markdown
-Syntax highlighted code block
-
 # Internet connection technician
-## System administrator
-### Java junior developer
+# # System administrator
+# ## Java junior developer
 
 - Bulleted
 - List
 - null
 
+Thread.sleep(86400000);
+System.out.println(new Date());
+
 1. Numbered
 2. List
 3. -> ArrayList
 
-**Bold String** and _Italic design_ and `System.out.println("Code")` text
+**Bold String** and _Italic design_ 
+System.out.println("Code")` text
 ```
 
 [MyHub - repository](https://github.com/setaniel) 
