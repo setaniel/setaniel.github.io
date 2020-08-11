@@ -24,7 +24,7 @@ System.out.println(new Date());
 3. -> ArrayList
 
 **Bold String** and _Italic design_ 
-System.out.println`("Code")` text
+`System.out.println("Code");` text
 ```
 
 [MyHub - repository](https://github.com/setaniel) 
