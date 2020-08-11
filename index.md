@@ -22,14 +22,23 @@ IT career
 
 **Bold String** and _Italic design_ 
 `System.out.println("Code");` text
-```javascript
-public class DateOfTomorrow throws InterruptedException {
-    public static void main(String[] args) {
+```java
+public class DateOfTomorrow {
+    public static void main(String[] args) throws InterruptedException {
         Thread.sleep(86400000);
         System.out.println(new Date());
     }
 }
 ```
+```
+
+```java
+public class DateOfTomorrow {
+    public static void main(String[] args) throws InterruptedException {
+        Thread.sleep(86400000);
+        System.out.println(new Date());
+    }
+}
 ```
 
 [MyHub - repository](https://github.com/setaniel) 
