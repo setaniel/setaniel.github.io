@@ -22,6 +22,7 @@ IT career
 
 **Bold String** and _Italic design_ 
 `System.out.println("Code");` text
+```
 ```java
 public class DateOfTomorrow {
     public static void main(String[] args) throws InterruptedException {
@@ -29,7 +30,6 @@ public class DateOfTomorrow {
         System.out.println(new Date());
     }
 }
-```
 
 [MyHub - repository](https://github.com/setaniel) 
 
@@ -37,13 +37,7 @@ public class DateOfTomorrow {
 ![Smile](https://wallbox.ru/wallpapers/main2/201719/fon-ulybka-ocki-temnye-smajlik.jpg)
 
 
-```java
-public class DateOfTomorrow {
-    public static void main(String[] args) throws InterruptedException {
-        Thread.sleep(86400000);
-        System.out.println(new Date());
-    }
-}
+
 ```
 
 For more details, i will see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
