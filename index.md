@@ -16,15 +16,19 @@ IT career
 - List
 - null
 
-Thread.sleep(86400000);
-System.out.println(new Date());
-
 1. Numbered
 2. List
 3. -> ArrayList
 
 **Bold String** and _Italic design_ 
 `System.out.println("Code");` text
+```Java
+public class DateOfTomorrow throws InterruptedException {
+    public static void main(String[] args) {
+        Thread.sleep(86400000);
+        System.out.println(new Date());
+    }
+}
 ```
 
 [MyHub - repository](https://github.com/setaniel) 
