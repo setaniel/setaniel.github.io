@@ -21,7 +21,6 @@ IT career
 3. -> ArrayList
 
 **Bold String** and _Italic design_ 
-`System.out.println("Code");` text
 ```
 ```java
 public class DateOfTomorrow {
