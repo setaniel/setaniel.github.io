@@ -13,15 +13,11 @@ IT career
 # ## Java junior developer
 
 
-- Bulleted
-- List
-- null
+- I
+- Love
+- Java
 
-1. Numbered
-2. List
-3. -> ArrayList
-
-**Bold String** and _Italic design_ 
+**Just** _code_ 
 ```
 ```java
 public class DateOfTomorrow {
