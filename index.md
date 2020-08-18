@@ -34,7 +34,7 @@ public class DateOfTomorrow {
 
 [MyHub - repository](https://github.com/setaniel) 
 
-I am currently working on my own application that will help me conveniently organize my working time, it has open source code and a license, and it is located [here](https://github.com/setaniel/timeShift.git)
+I am currently working on my own application that will help me conveniently organize my working time, it has open source code and a GPL-3.0 License, and it is located [here](https://github.com/setaniel/timeShift.git)
 
 
 ![Smile](https://s8.hostingkartinok.com/uploads/images/2020/08/f6f880dda69a527f7d49b92c838913d7.jpg)
