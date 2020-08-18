@@ -41,9 +41,6 @@ I am currently working on my own application that will help me conveniently orga
 
 
 
-```
-
-
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
