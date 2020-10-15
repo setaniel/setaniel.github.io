@@ -10,7 +10,7 @@ IT career
 ```markdown
 # Internet connection technician
 # # System administrator
-# ## Java junior developer
+# ## Java developer
 
 
 - I
