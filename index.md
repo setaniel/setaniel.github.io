@@ -1,7 +1,6 @@
 ## Kirill Orlov personal page
 
-I use a github and git instruments for deployment my first's projects, i learning Java now.
-Github pages - my first personal page.
+Welcome to my personal page. I use GitHub to build my projects and store various code.
 
 ### Job history
 
@@ -30,13 +29,13 @@ public class DateOfTomorrow {
 
 [MyHub - repository](https://github.com/setaniel) 
 
-I am currently working on my own application that will help me conveniently organize my working time, it has open source code and a GPL-3.0 License, and it is located [here](https://github.com/setaniel/timeShift.git)
+I created an application that keeps notes for me and helps me organize my work hours. It has open source code and a AGPL-3.0 License, and it is located [here](https://github.com/setaniel/timeShift.git)
 
 
 ![Smile](https://s8.hostingkartinok.com/uploads/images/2020/08/f6f880dda69a527f7d49b92c838913d7.jpg)
 
 
 
-### Support or Contact
+### My aspirations
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+At the moment I work as a system administrator, I wish to change my profession to a developer, to a backend. I am open to job offers, I like to learn new things in programming, I have always liked to write code, but my life path led me to a different profession. Now I am trying to correct this mistake and do what I love.
