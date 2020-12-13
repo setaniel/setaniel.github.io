@@ -31,7 +31,7 @@ public class DateOfTomorrow {
 
 [My Git repos](https://github.com/setaniel) 
 
-I created an application that keeps notes for me and helps me organize my work hours. It has open source code and a AGPL-3.0 License, and it is located [here](https://github.com/setaniel/timeShift.git)
+I created an application that keeps notes for me and helps me organize my work hours. This is an open source application, licensed by AGPL-3.0, it is located [here](https://github.com/setaniel/timeShift.git)
 
 
 ![Smile](https://s8.hostingkartinok.com/uploads/images/2020/08/f6f880dda69a527f7d49b92c838913d7.jpg)
