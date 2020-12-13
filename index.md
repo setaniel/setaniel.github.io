@@ -29,7 +29,7 @@ public class DateOfTomorrow {
 
 [My habr posts](https://habr.com/ru/users/setaniel/posts)
 
-[MyHub - repository](https://github.com/setaniel) 
+[My Git repos](https://github.com/setaniel) 
 
 I created an application that keeps notes for me and helps me organize my work hours. It has open source code and a AGPL-3.0 License, and it is located [here](https://github.com/setaniel/timeShift.git)
 
