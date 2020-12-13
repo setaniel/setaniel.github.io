@@ -27,7 +27,7 @@ public class DateOfTomorrow {
 }
 ```
 
-[My habrahabr posts](https://habr.com/ru/users/setaniel/posts)
+[My habr posts](https://habr.com/ru/users/setaniel/posts)
 
 [MyHub - repository](https://github.com/setaniel) 
 
